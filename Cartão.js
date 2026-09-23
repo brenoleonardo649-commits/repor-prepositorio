@@ -1,0 +1,12 @@
+const nome = "Marina Alves";
+const idade = 22;
+const cidade = "Curitiba";
+const curso = "Trilha JavaScript - LionsDev";
+console.log("========================");
+console.log("CARTÃO DE APRESENTAÇÃO");
+console.log("========================");
+console.log("Nome: " + nome);
+console.log("Idade: " + idade + " anos");
+console.log("Cidade: " + cidade);
+console.log("Curso: " + curso);
+console.log("========================");

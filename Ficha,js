@@ -1,0 +1,11 @@
+const produto = {
+    nome: "fone de Ouvido",
+    preco: 89.9,
+    estoque: 15
+};
+
+console.log("Produto: + produto.nome");
+console.log("preço R$ " + produto.preco);
+console.log("Estoque : " + produto.estoque + " unidades")
+let valor = produto.preco * produto.estoque
+console.log(`"Valor total em estoque: " R$ ${valor}`)
